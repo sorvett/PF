@@ -17,4 +17,4 @@
 　　映画を見終わった後など
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1yE38o1HF0ZbNtSpSc7JhNOnDzip7seyhed9Mb3gwc5s/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1yE38o1HF0ZbNtSpSc7JhNOnDzip7seyhed9Mb3gwc5s/edit#gid=0
